@@ -39,7 +39,8 @@ public class Learning {
                 System.out.println(a + " is greater that "+ num);
             }
             else {
-                System.out.println(num + " is greater that "+ a);
+                System.out.println(num + " is greater that 2112121jwhgejhwq "+ a);
+                System.out.println(num + " is greater that 2112121jwhgejhwq "+ a);
 
         }
 
